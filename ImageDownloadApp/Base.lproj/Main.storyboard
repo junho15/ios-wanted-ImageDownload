@@ -148,6 +148,9 @@
                                         <rect key="frame" x="0.0" y="634.33333333333337" width="353.66666666666669" height="34.333333333333371"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Load All Images"/>
+                                        <connections>
+                                            <action selector="touchUpLoadAllButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xNC-7X-JsB"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <constraints>
