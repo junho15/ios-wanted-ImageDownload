@@ -1,19 +1,15 @@
-//
-//  ViewController.swift
-//  ImageDownloadApp
-//
-//  Created by junho lee on 2023/02/21.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet var imageViews: [UIImageView]!
+    @IBOutlet var progressViews: [UIProgressView]!
+    @IBOutlet var loadButtons: [UIButton]!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func touchUpLoadButton(_ sender: Any) {
+    }
 }
 

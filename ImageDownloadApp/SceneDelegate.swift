@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ImageDownloadApp
-//
-//  Created by junho lee on 2023/02/21.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
