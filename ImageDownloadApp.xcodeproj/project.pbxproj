@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB9A0D0229A4D78C000B7B7B /* ImageLoadOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9A0D0129A4D78C000B7B7B /* ImageLoadOperation.swift */; };
 		EBA0053F29A46F6600BF3DBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA0053E29A46F6600BF3DBD /* AppDelegate.swift */; };
 		EBA0054129A46F6600BF3DBD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA0054029A46F6600BF3DBD /* SceneDelegate.swift */; };
 		EBA0054329A46F6600BF3DBD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA0054229A46F6600BF3DBD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB9A0D0129A4D78C000B7B7B /* ImageLoadOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoadOperation.swift; sourceTree = "<group>"; };
 		EBA0053B29A46F6600BF3DBD /* ImageDownloadApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageDownloadApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBA0053E29A46F6600BF3DBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBA0054029A46F6600BF3DBD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				EBA0053E29A46F6600BF3DBD /* AppDelegate.swift */,
 				EBA0054029A46F6600BF3DBD /* SceneDelegate.swift */,
 				EBA0054229A46F6600BF3DBD /* ViewController.swift */,
+				EB9A0D0129A4D78C000B7B7B /* ImageLoadOperation.swift */,
 				EBA0054429A46F6600BF3DBD /* Main.storyboard */,
 				EBA0054729A46F6700BF3DBD /* Assets.xcassets */,
 				EBA0054929A46F6700BF3DBD /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				EBA0054329A46F6600BF3DBD /* ViewController.swift in Sources */,
 				EBA0053F29A46F6600BF3DBD /* AppDelegate.swift in Sources */,
 				EBA0054129A46F6600BF3DBD /* SceneDelegate.swift in Sources */,
+				EB9A0D0229A4D78C000B7B7B /* ImageLoadOperation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
